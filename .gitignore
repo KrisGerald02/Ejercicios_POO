@@ -1,0 +1,11 @@
+# Archivos compilados de Java
+*.class
+/out/
+
+# Archivos de IntelliJ
+.idea/
+*.iml
+
+# Otros temporales
+*.log
+*.tmp
